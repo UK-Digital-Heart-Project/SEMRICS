@@ -19,14 +19,6 @@ From the MATLAB IDE, run the function:
 
 ```SEMRICS.m```
 
-To use the standalone executable, browse to the folder:
-
-```MRI_SE_Contrast_Simulator\for_redistribution_files_only```
-
-Then run the program:
-
-```MRI_SE_Contrast_Simulator.exe```
-
 ## The File menu
 This has four entries:
 
