@@ -5,7 +5,7 @@ This is a small GUI which will simulate acquisition-weighted spin-echo magnetic 
 
 A short and self-explanatory user manual is attached.
 
-Screenshots are included in the "Figures" directory.
+Screenshots are included in the "Docs + Figures" directory.
 
 ## Installation
 Clone this repo to a folder in your MATLAB workspace, browse to the folder containing SEMRICS.m, then modify the MATLAB path:
