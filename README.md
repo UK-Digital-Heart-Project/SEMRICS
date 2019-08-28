@@ -51,6 +51,11 @@ These are grouped together on the GUI.
 
 Note that all sliders are "live" and continuously responsive.
 
+## The Standalone EXE for Windows
+Write to the author to request a Zip file. This is too large for the current repo.
+
+```ptokarcz@ic.ac.uk```
+
 
 
 
